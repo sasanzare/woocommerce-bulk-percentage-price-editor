@@ -1,0 +1,1 @@
+# woocommerce-bulk-percentage-price-editor
